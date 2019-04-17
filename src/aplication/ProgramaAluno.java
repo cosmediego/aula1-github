@@ -39,6 +39,7 @@ public class ProgramaAluno {
 			System.out.printf("NOTA FINAL = %.2f %nREPROVADO%n FALTOU %.2f PONTOS ", notafinal, quantoFaltou);
 			
 		}
+		System.out.println("Bom dia");
 
 		sc.close();
 	}
