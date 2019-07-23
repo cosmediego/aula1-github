@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/cosmeaugusto/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+857560819.index
+671705196.index
+3272901656.index
+1816160377.index
+1919909490.index
+958660289.index
